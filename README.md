@@ -15,3 +15,8 @@ Key Features:
 * HTML Tag Analysis: By analyzing HTML tags such as titles, headings, and meta tags, the search engine improves the accuracy of search results by considering the structure and semantics of HTML documents.
 * 2-Gram Index: In addition to single-word indexing, the search engine utilizes a 2-gram index, allowing for more comprehensive and efficient search queries by considering word pairs.
 * Graphical User Interface (GUI): The search engine features a user-friendly GUI that enables users to input search queries and view results in a visually appealing interface.
+* PageRank Algorithm: Integrates the PageRank algorithm, originally developed by Google, to rank search results based on the importance of web pages, thus ensuring that more relevant and authoritative pages are displayed prominently.
+* Automatic Spell Checker: Incorporates spell checking mechanisms to enhance user experience by automatically correcting or suggesting alternative spellings for search queries.
+* Cosine Similarity: Computes cosine similarity between search query vectors and document vectors to determine the relevance of documents to the query, further refining search result ranking.
+* Text Preprocessing: Tokezined words for the index, used lemmitization to improve the matching of similar term and also removed stop words to make the search engine more efficient.
+* Graphical User Interface (GUI): Features a user-friendly GUI that enables users to input search queries and view results in a visually appealing interface, enhancing accessibility and usability.
